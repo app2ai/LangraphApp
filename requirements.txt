@@ -9,3 +9,4 @@ dotenv
 
 # Open AI
 openai
+langchain-openai
